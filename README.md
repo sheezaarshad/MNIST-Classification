@@ -8,7 +8,7 @@ The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9
 Training Set: 60,000 images
 Test Set: 10,000 images
 
-****Model Architecture**
+**Model Architecture**
 The model is a simple deep neural network with the following layers:
 
 Flatten Layer: Converts 28x28 images into a 1D array of 784 values.
